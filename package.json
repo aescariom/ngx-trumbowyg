@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "jquery": "^3.2.1",
-    "trumbowyg": "2.21.0"
+    "trumbowyg": "https://github.com/Alex-D/Trumbowyg.git#develop"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.8.0",
